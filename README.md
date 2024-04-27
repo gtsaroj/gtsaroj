@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://saroj-gt.web.app](https://saroj-gt.web.app)
 
-- 💬 Ask me about **react,typescript,nodejs**
+- 💬 Ask me about **react, typescript, Nodejs**
 
 - 📫 How to reach me **sarojgt326@gmail.com**
 
